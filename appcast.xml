@@ -5,15 +5,15 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title><![CDATA[Version 1.0.1]]></title>
+            <title><![CDATA[Version 2.0]]></title>
             <description><![CDATA[<ul>
                 <li>修復問題 01</li>
                 </ul>
             ]]></description>
             <pubDate>Wed, 10 Apr 2019 19:58:11 +0000</pubDate>
             <enclosure
-                url="https://raw.githubusercontent.com/dingerjk/Sparkle/master/Sphere.zip"
-                sparkle:shortVersionString="1.0.1"
+                url="https://raw.githubusercontent.com/dingerjk/SPARKLE/master/Sphere.zip"
+                sparkle:shortVersionString="2.0"
                 sparkle:version="1"
                 type="application/octet-stream"
                 sparkle:edSignature="itnFIaHhOr5OhbclLRn62gH3BTuNwTFJz7i+s84Wb3SdDJ3ewTXxWKeEHK5VtcRro9j9eeWuluV0KDoNNzTcBg=="
