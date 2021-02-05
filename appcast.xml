@@ -7,14 +7,16 @@
         <item>
             <title><![CDATA[Version 2.0]]></title>
             <description><![CDATA[<ul>
-                <li>修复问题</li>
+                <li>修復問題 01</li>
+                <li>修復問題 02</li>
+                <li>修復問題 03</li>
                 </ul>
             ]]></description>
-            <pubDate>Wed, 10 Apr 2019 19:58:11 +0000</pubDate>
+            <pubDate>Friday, 05 February 2021 12:00:00 +0000</pubDate>
             <enclosure
                 url="https://raw.githubusercontent.com/dingerjk/Sparkle/master/Sphere.zip"
                 sparkle:shortVersionString="2.0"
-                sparkle:version="2.0"
+                sparkle:version="1.0"
                 type="application/octet-stream"
                 length="8432590"
                 sparkle:edSignature="3qA6MAjspdkdaKyosxmcGjAJwn/C5NrlJKH/ACUVzF36zQHgDkD6WTxcGC3G87cvB9FjpcnoESFj7DHsk1lWBA=="
