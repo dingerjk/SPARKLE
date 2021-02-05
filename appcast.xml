@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>SPHERE</title>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Version 2.0]]></title>
+            <description><![CDATA[<ul>
+                <li>修复问题</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 10 Apr 2019 19:58:11 +0000</pubDate>
+            <enclosure
+                url="https://github.com/dingerjk/SPHERE/blob/master/Sphere.zip"
+                sparkle:shortVersionString="2.0"
+                sparkle:version="2.0"
+                type="application/octet-stream"
+                length="8430450"
+                sparkle:edSignature="zFw2LWSD+FA4xaGoxQ0QLoVMcWKlc9cG/tfBa1IltVnoh0iJwCDWm/AIaNjxyRCirvoLP5glMbAKQDOm0U7yBw=="
+            />
+        </item>
+    </channel>
+</rss>
