@@ -11,14 +11,8 @@
                 </ul>
             ]]></description>
             <pubDate>2017-06-08 01:47:00 GMT</pubDate>
-            <enclosure
-                url="https://raw.githubusercontent.com/dingerjk/SPARKLE/master/Sphere.zip"
-                sparkle:shortVersionString="2.0"
-                sparkle:version="1"
-                type="application/octet-stream"
-                sparkle:edSignature="SmoflHAXM8c0CpLyOai42twJKexfXuNq20LiKx8/QRWU5R1DbR3bGl2Pp85Z8ajpudlyEZ/vfoWJHd0rsJq9Dw=="
-                length="8427553"
-            />
+            <enclosure url="https://raw.githubusercontent.com/dingerjk/SPARKLE/master/Sphere.zip" length="8427553" type="application/octet-stream" sparkle:version="19" sparkle:shortVersionString="2.0">
+            </enclosure>
         </item>
 	</channel>
 </rss>
