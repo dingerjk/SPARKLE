@@ -12,12 +12,12 @@
             ]]></description>
             <pubDate>Wed, 10 Apr 2019 19:58:11 +0000</pubDate>
             <enclosure
-                url="https://raw.githubusercontent.com/dingerjk/SPARKLE/master/Sphere.zip"
+                url="https://raw.githubusercontent.com/dingerjk/SPARKLE/master/Sphere3.zip"
                 sparkle:shortVersionString="2.0"
                 sparkle:version="1"
                 type="application/octet-stream"
-                sparkle:edSignature="x/nMHm/kyp/zz65Ez7ciabjXEKpKY43ZIDVURFRnUuFmquxlVnLdhjgtPKpov15ZOhTvPikx/Wg4T9CMDudEAg=="
-                length="9988910"
+                sparkle:edSignature="w1J4COlYnD0sEjk/3/fQTZF1GrFW0RP0OU07OdG+Uc914iEppHb1kZv0dgJTZZv7xmX+1nmYC51LlOTMgrnPDg=="
+                length="8481288"
             />
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
         </item>
