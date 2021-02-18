@@ -19,7 +19,7 @@
                 sparkle:edSignature="ZFuARKWNEYwH+0GnfZXiUCUGoFu56Y+R5SaT+t40G1+iUAzN/CHyb26SDRkkzJ+/P657V/y53NGpN7YYoKMwBA=="
                 length="64137984"
             />
-            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
