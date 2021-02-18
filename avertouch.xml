@@ -16,8 +16,8 @@
                 sparkle:shortVersionString="1.15"
                 sparkle:version="1.3.2050"
                 type="application/octet-stream"
-                sparkle:edSignature="wZ5kHZspVuhBOhk7BHkxUy8FV9Gp38r/yXQCTMVoB+8vqY3LirUlAyfRHjcaUuH4ILZfOZEDJxZw28hJCM/WAQ=="
-                length="64155437"
+                sparkle:edSignature="euG+/kXpj3PXXa5IOYFSlcwqqqirRjb9//lBdZqkQAnpndJJn2SBgI1DMj8LpJBMoLsvgpmrEX3+W3LCEsE+Dw=="
+                length="64155440"
             />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
