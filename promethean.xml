@@ -15,10 +15,10 @@
             <enclosure
                 url="https://raw.githubusercontent.com/dingerjk/SPARKLE/master/Promethean.zip"
                 sparkle:shortVersionString="1.0"
-                sparkle:version="2.1.2008.0"
+                sparkle:version="2.1.20099.0"
                 type="application/octet-stream"
-                sparkle:edSignature="dRruSKbk2Zd/4tQCIeaS/d3pSlTAU9scQfWlMvpMYqvL6MYC4Cbxfqj5MbJYdq2cdK1y70Y9r4bbI61IzNkVBQ=="
-                length="41660224"
+                sparkle:edSignature="GyPlHUwPxWGQB+YfuNBGqoTtSLxikUR+pmaUSe9+bxiOQb4ko0LSA5xIsQI3Bus55appIOAEqaQKnaR8+NiICg=="
+                length="36970998"
             />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
