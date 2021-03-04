@@ -5,19 +5,20 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title><![CDATA[Version 1.15]]></title>
+            <title><![CDATA[Version 1.0]]></title>
             <description><![CDATA[<ul>
-                <li>修復問題 01</li>
+                <li>修復問題</li>
+                <li>效能優化</li>
                 </ul>
             ]]></description>
             <pubDate>Wed, 10 Apr 2019 19:58:11 +0000</pubDate>
             <enclosure
                 url="https://raw.githubusercontent.com/dingerjk/SPARKLE/master/Promethean.zip"
-                sparkle:shortVersionString="2.0"
+                sparkle:shortVersionString="1.0"
                 sparkle:version="2.1.2008.0"
                 type="application/octet-stream"
-                sparkle:edSignature="b5KTgV4IojAJo9u1d01Hxwyu2uQ0mUtllRt59+/xqyqFRKSXTT9H1iQlQefntQynWPB28buMltq7RxQJbM/tDg=="
-                length="41755779"
+                sparkle:edSignature="dRruSKbk2Zd/4tQCIeaS/d3pSlTAU9scQfWlMvpMYqvL6MYC4Cbxfqj5MbJYdq2cdK1y70Y9r4bbI61IzNkVBQ=="
+                length="41660224"
             />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
