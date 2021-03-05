@@ -13,12 +13,12 @@
             ]]></description>
             <pubDate>Wed, 10 Apr 2019 19:58:11 +0000</pubDate>
             <enclosure
-                url="https://raw.githubusercontent.com/dingerjk/SPARKLE/master/Promethean.zip"
+                url="http://download.aver.com/APlusSuite/check4Update/Promethean.zip"
                 sparkle:shortVersionString="1.0"
-                sparkle:version="3.1.2099.0"
+                sparkle:version="3.1.2001.0"
                 type="application/octet-stream"
-                sparkle:edSignature="PMa0iczRAoLwLyG+jbRIs3LROMGOIY7A432wuq+YaaulZL+xi2YEXvDfrzVHf3arajD6AUlgwJ22XthJhLa9Dg=="
-                length="26641840"
+                sparkle:edSignature="Tg0WChVGF4Av5+YG3d8OKOyvWwT6K9yIhVFQS2v3j4pxz1CRg8g4iKfbpd4d3yVoPse+xhshBBlSpBF8BT0RAg=="
+                length="42269033"
             />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
