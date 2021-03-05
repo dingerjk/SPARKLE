@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
-        <title>AVerTouch</title>
+        <title>Promethean Document Camera</title>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
             <title><![CDATA[Version 1.0]]></title>
             <description><![CDATA[<ul>
-                <li>修復問題</li>
-                <li>效能優化</li>
+                <li>Bug fix</li>
                 </ul>
             ]]></description>
             <pubDate>Wed, 10 Apr 2019 19:58:11 +0000</pubDate>
@@ -17,8 +16,8 @@
                 sparkle:shortVersionString="1.0"
                 sparkle:version="3.1.2099.0"
                 type="application/octet-stream"
-                sparkle:edSignature="v3f+igaosTISmC0AHzZyPxucdVsIxcOhiv8BWzHRcOB45hghuK48oNyom3kiy5UzwIbmzntLHixqYUSvRp8FBw=="
-                length="40353796"
+                sparkle:edSignature="Rx0rho8qaMq4k09n+PxTHZIa9FdllDNX1AOGYW6h4XvLgGhhCLF5GrZ+XreCa4BENcTazoJ45vlfCGVNAbQIBA=="
+                length="40408568"
             />
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
         </item>
