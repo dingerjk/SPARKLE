@@ -14,6 +14,23 @@
             <enclosure
                 url="https://raw.githubusercontent.com/dingerjk/SPARKLE/master/Promethean.zip"
                 sparkle:shortVersionString="1.0"
+                sparkle:version="3.1.2199.0"
+                type="application/octet-stream"
+                sparkle:edSignature="Rx0rho8qaMq4k09n+PxTHZIa9FdllDNX1AOGYW6h4XvLgGhhCLF5GrZ+XreCa4BENcTazoJ45vlfCGVNAbQIBA=="
+                length="40408568"
+            />
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+        </item>
+        <item>
+            <title><![CDATA[Version 1.0]]></title>
+            <description><![CDATA[<ul>
+                <li>Bug fix</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 10 Apr 2019 19:58:11 +0000</pubDate>
+            <enclosure
+                url="https://raw.githubusercontent.com/dingerjk/SPARKLE/master/Promethean.zip"
+                sparkle:shortVersionString="1.0"
                 sparkle:version="3.1.2099.0"
                 type="application/octet-stream"
                 sparkle:edSignature="Rx0rho8qaMq4k09n+PxTHZIa9FdllDNX1AOGYW6h4XvLgGhhCLF5GrZ+XreCa4BENcTazoJ45vlfCGVNAbQIBA=="
